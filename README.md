@@ -1,4 +1,5 @@
 # Correcting Heteroskedasticity in Regression Models: Data Transformations and FGLS Methods
+#### By: Charlize Samuels
 
 ## Introduction
 
